@@ -1,6 +1,6 @@
 # Enterprise-Resource-Management
 
-This example demonstrates using Spring Cloud Netflix Eureka as a discovery server, Zuul as a gateway, OpenFeign for communication and Spring Cloud Config Server.
+This example demonstrates using Spring Boot, Spring Cloud Netflix Eureka as a discovery server, Zuul as a gateway, OpenFeign for communication and Spring Cloud Config Server.
 
 ### Usage
 
